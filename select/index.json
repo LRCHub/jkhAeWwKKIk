@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Kill Bill",
+  "base_artist": "SZA",
+  "createdAt": "2025-12-12T19:03:11.926314Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/01_Kill_Bill_SZA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kill Bill",
+      "artist": "Brown Eyed Girls",
+      "has_synced": false,
+      "path": "select/02_Kill_Bill_Brown_Eyed_Girls.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kill Bill",
+      "artist": "브라운 아이드 걸스",
+      "has_synced": true,
+      "path": "select/03_Kill_Bill_브라운_아이드_걸스.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/04_Kill_Bill_(feat._Doja_Cat)_SZA_feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/05_Kill_Bill_(feat._Doja_Cat)_SZA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kill Bill",
+      "artist": "Yung Simmie",
+      "has_synced": false,
+      "path": "select/06_Kill_Bill_Yung_Simmie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kill Bill (Acoustic)",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/07_Kill_Bill_(Acoustic)_SZA.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kill Bill (Instrumental)",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/08_Kill_Bill_(Instrumental)_SZA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kill Bill (Sped Up Version)",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/09_Kill_Bill_(Sped_Up_Version)_SZA.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kill Bill (Vocals)",
+      "artist": "SZA",
+      "has_synced": true,
+      "path": "select/10_Kill_Bill_(Vocals)_SZA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA feat. Doja Cat",
+      "has_synced": true,
+      "path": "select/11_Kill_Bill_(feat._Doja_Cat)_SZA_feat._Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kill Bill (feat. Doja Cat)",
+      "artist": "SZA, Doja Cat",
+      "has_synced": true,
+      "path": "select/12_Kill_Bill_(feat._Doja_Cat)_SZA,_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Kill Bill (Remix)",
+      "artist": "SZA & Doja Cat",
+      "has_synced": true,
+      "path": "select/13_Kill_Bill_(Remix)_SZA_&_Doja_Cat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "has_synced": false,
+      "path": "select/pl_01_Kill_Bill_SZA.txt"
+    }
+  ]
+}
